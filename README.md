@@ -7,8 +7,8 @@ If the input contains any white space, numeric or alpha-numeric character, the p
 
 This source code is in c++
 
-## Run the Main.cpp file
+Run the Main.cpp file
 
-## Input a string 
+Input a string 
 
-## The program will the Palindrome
+The program will check the Palindrome....
